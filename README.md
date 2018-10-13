@@ -2,6 +2,7 @@ Py-Spy: A sampling profiler for Python programs.
 =====
 [![Build Status](https://travis-ci.org/benfred/py-spy.svg?branch=master)](https://travis-ci.org/benfred/py-spy)
 [![Windows Build status](https://ci.appveyor.com/api/projects/status/x0jwd5ygaybsa0md?svg=true)](https://ci.appveyor.com/project/benfred/py-spy)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakahippac%2Fpy-spy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakahippac%2Fpy-spy?ref=badge_shield)
 
 Py-Spy is a sampling profiler for Python programs. It lets you visualize what your Python
 program is spending time on without restarting the program or modifying the code in any way.
@@ -177,3 +178,5 @@ In particular, the code to generate the flamegraphs is taken directly from rbspy
 ## License
 
 Py-spy is released under the GNU General Public License v3.0, see  [LICENSE](https://github.com/benfred/py-spy/blob/master/LICENSE) file for the full text.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fakahippac%2Fpy-spy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fakahippac%2Fpy-spy?ref=badge_large)
